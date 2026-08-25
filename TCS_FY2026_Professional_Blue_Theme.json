@@ -1,0 +1,51 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/powerbi-desktop-samples/main/Report%20Theme%20JSON%20Schema/reportThemeSchema.json",
+  "name": "TCS FY2026 Professional Blue",
+  "dataColors": [
+    "#0B3A82",
+    "#0066B3",
+    "#00A3E0",
+    "#2F75B5",
+    "#5B9BD5",
+    "#7FB3D5",
+    "#A5C8E1",
+    "#D9EAF7"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#172B4D",
+  "tableAccent": "#0B3A82",
+  "good": "#2E7D32",
+  "neutral": "#F9A825",
+  "bad": "#C62828",
+  "textClasses": {
+    "title": {
+      "fontFace": "Aptos Display",
+      "fontSize": 18,
+      "color": "#0B3A82"
+    },
+    "header": {
+      "fontFace": "Aptos",
+      "fontSize": 12,
+      "color": "#172B4D"
+    },
+    "callout": {
+      "fontFace": "Aptos Display",
+      "fontSize": 24,
+      "color": "#0B3A82"
+    },
+    "label": {
+      "fontFace": "Aptos",
+      "fontSize": 10,
+      "color": "#425466"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": [
+        {
+          "fontFamily": "Aptos"
+        }
+      ]
+    }
+  }
+}
