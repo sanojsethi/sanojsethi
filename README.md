@@ -20,7 +20,8 @@ The project converts business and financial information into an interactive exec
 
 <img width="792" height="458" alt="TCS_FY2026_Industry_Analysis" src="https://github.com/user-attachments/assets/924ce9ad-7f40-4940-bbcd-653dda437e47" />
 
-<img width="798" height="461" alt="TCS_FY2026_Executive_Dashboard" src="https://github.com/user-attachments/assets/a1ed52d8-718a-43bb-858e-8af2d06be37e" />
+<img width="925" height="517" alt="TCS_FY2026_Executive_Dashboard" src="https://github.com/user-attachments/assets/f8ae035b-d80d-4b3b-8398-5c5bfa97ce49" />
+
 
   
 <img width="798" height="460" alt="TCS_FY2026_Business_Insights" src="https://github.com/user-attachments/assets/e8836841-d713-4c16-a640-8b50216db84a" />
