@@ -7,6 +7,17 @@ A professional Data Analyst portfolio project analyzing TCS FY2026 business perf
 The project converts business and financial information into an interactive executive dashboard and structured SQL analysis to support business-performance evaluation.
 
 ---
+## ⭐ Project Highlights
+
+- 📊 Interactive Power BI executive dashboard
+- 💰 FY2026 revenue and profitability analysis
+- 🏢 Industry-wise revenue and margin analysis
+- 🌍 Geographical performance analysis
+- 🗄️ PostgreSQL database validation
+- 🔎 SQL-based business analysis
+- 💡 Business insights and recommendations
+- 📈 FY2026 vs FY2025 performance comparison
+
 
 ## 🎯 Project Objectives
 
